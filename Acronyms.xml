@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+<d:entry id="ldap" d:title="LDAP">
+	<d:index d:value="LDAP"/>
+	<h1>LDAP</h1>
+	<p>Lightweight Directory Access Protocol</p>
+</d:entry>
+<d:entry id="xml" d:title="XML">
+	<d:index d:value="XML"/>
+	<h1>XML</h1>
+	<p>Extensible Markup Language</p>
+</d:entry>
+<d:entry id="nasa" d:title="NASA">
+	<d:index d:value="NASA"/>
+	<h1>NASA</h1>
+	<p>National Aeronautics and Space Administration</p>
+</d:entry>
+<d:entry id="midi" d:title="MIDI">
+	<d:index d:value="MIDI"/>
+	<h1>MIDI</h1>
+	<p>Musical Instrument Digital Interface</p>
+</d:entry>
+<d:entry id="iam" d:title="IAM">
+	<d:index d:value="IAM"/>
+	<h1>IAM</h1>
+	<p>Identity &amp; Access Management</p>
+</d:entry>
+<d:entry id="ima" d:title="IMA">
+	<d:index d:value="IMA"/>
+	<h1>IMA</h1>
+	<p>Integrity Measurement Architecture (for Linux)</p>
+</d:entry>
+</d:dictionary>
