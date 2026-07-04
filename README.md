@@ -23,7 +23,7 @@ macOS only. Depends on Apple's [Dictionary Development Kit](https://developer.ap
 ```
 acronym add WTF "What the Fudge"
 acronym add --file extra.tsv        # bulk-add from a TSV (use - for stdin)
-acronym add --update WTF "..."     # overwrite an existing entry
+acronym add --update WTF "..."      # overwrite an existing entry
 acronym rm WTF
 acronym list
 acronym edit                        # open acronyms.tsv in $EDITOR

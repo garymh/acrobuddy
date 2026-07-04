@@ -1,15 +1,6 @@
 @charset "UTF-8";
-/* @namespace binds the "d" prefix to Apple's Dictionary schema, so selectors
-   like `d|entry` target <d:entry> elements in the dictionary XML. Without it,
-   `d|entry` wouldn't match anything. */
 @namespace d url(http://www.apple.com/DTDs/DictionaryService-1.0.rng);
 
-/* San Francisco is macOS's system font. `-apple-system` resolves to it
-   (WebKit-specific value, official per Apple's WebKit blog). `ui-sans-serif`
-   is the standards-track CSS Fonts Level 4 keyword that also maps to SF on
-   macOS. Apple's Dictionary programming guide warns against specifying absolute
-   font names/sizes, so we use system keywords — these also track the user's
-   Dynamic Type / accessibility settings for free. */
 body {
 	font-family: -apple-system, ui-sans-serif, sans-serif;
 }
