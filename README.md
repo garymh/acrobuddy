@@ -1,5 +1,7 @@
 # acrobuddy
 
+<img width="384" height="441" alt="Screenshot 2026-07-03 at 23 40 12" src="https://github.com/user-attachments/assets/1dd80b0f-9d7b-4b49-b7bd-544a261fc106" />
+
 Acronyms are annoying. This little app will let you manage a custom Apple Dictionary of acronyms from the command line. You can add, remove, list, and rebuild entries until your heart is content. It should automatically add them to your custom dictionaries, you just need to enable it once. Enjoy!
 
 macOS only. Depends on Apple's [Dictionary Development Kit](https://developer.apple.com/).
